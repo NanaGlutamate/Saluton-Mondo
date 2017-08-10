@@ -1,0 +1,2 @@
+# Saluton-Mondo
+Default project
